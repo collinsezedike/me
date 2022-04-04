@@ -23,7 +23,7 @@ h1 {
 
 /* Navbar */
 .navbar {
-    padding: 4.5rem;
+    padding: 4.5rem 4.5rem 4.5rem 2rem;
 }
 .nav-item {
     padding: 0 1rem;
