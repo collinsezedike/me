@@ -80,3 +80,10 @@ h1 {
 .social:hover > .fa-circle {
     color: #21209C;
 }
+
+
+@media screen and (max-width:1000px){
+    .project-card {
+        filter: blur(0px);
+    }
+}
